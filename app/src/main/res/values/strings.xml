@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoEngageNews</string>
+    <string name="moengage">MoEngage</string>
+    <string name="old_to_new">Old to New</string>
+    <string name="new_to_old">New To Old</string>
+</resources>

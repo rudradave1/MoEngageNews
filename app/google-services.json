@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703937888569",
+    "project_id": "moengage-3ec55",
+    "storage_bucket": "moengage-3ec55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703937888569:android:c966bfab6e99528fcce8e8",
+        "android_client_info": {
+          "package_name": "com.rudra.moengagenews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgd9NdX5fv_SGbFEMcVTqDpoCsWCVwdOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
